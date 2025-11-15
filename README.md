@@ -4,6 +4,11 @@ A lightweight Android TV application built using Kotlin, RecyclerView, and ExoPl
 Users can browse a list of videos, navigate using the TV D-pad, and play videos with custom playback controls.
 
 ---
+// Demo video
+
+![Screen_recording_20251115_120030-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/42fdb552-4374-4f07-950e-836d920e65a6)
+
+
 
 ## 📥 Setup Instructions (How to Run the App)
 
